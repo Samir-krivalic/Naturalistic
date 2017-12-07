@@ -170,7 +170,7 @@ float:right;
 }
 #container .box .bio .description h2{
 	font-size: 30px;
-	color:red;
+	color:green;
 	display:inline;
 }
 
@@ -270,9 +270,9 @@ margin-top: 5px;
 #btn4{
   color:#988121;
 }
-.btn #btn5{
+#btn5{
   color:#068528;
-  margin:0 25px 0 30px;
+  margin:0 30px 0 35px;
 }
 #container .columns .box img {
 	margin-bottom: 10px; 
